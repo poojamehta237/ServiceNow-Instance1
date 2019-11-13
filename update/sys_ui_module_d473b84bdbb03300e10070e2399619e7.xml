@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Table1">1073b84bdbb03300e10070e2399619e5</application>
+        <filter/>
+        <name>Table1s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_344976_my_first.table1_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-18 09:00:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d473b84bdbb03300e10070e2399619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Table1s</sys_name>
+        <sys_package display_value="My First Application" source="x_344976_my_first">d11edccbdb703300e10070e239961951</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My First Application">d11edccbdb703300e10070e239961951</sys_scope>
+        <sys_update_name>sys_ui_module_d473b84bdbb03300e10070e2399619e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-18 09:00:56</sys_updated_on>
+        <table>x_344976_my_first_table1</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

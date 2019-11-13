@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Table1" max_length="40" name="x_344976_my_first_table1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Age" max_length="40" name="age" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="omit_sys_original=true" label="Salary" max_length="20" name="salary" type="currency"/>
+    </element>
+</database>

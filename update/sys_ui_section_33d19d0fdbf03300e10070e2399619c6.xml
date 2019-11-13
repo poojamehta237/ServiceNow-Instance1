@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="My Idea" section_id="33d19d0fdbf03300e10070e2399619c6" sys_domain="global" table="x_344976_my_first_innovate" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_4</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-18 11:13:53</sys_created_on>
+            <sys_id>cce1dd0fdbf03300e10070e2399619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_344976_my_first_innovate" sys_domain="global" view="Default view">33d19d0fdbf03300e10070e2399619c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-18 11:13:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>My Idea</caption>
+            <header>false</header>
+            <name>x_344976_my_first_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-18 11:13:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33d19d0fdbf03300e10070e2399619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>My Idea</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My First Application" source="x_344976_my_first">d11edccbdb703300e10070e239961951</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My First Application">d11edccbdb703300e10070e239961951</sys_scope>
+            <sys_update_name>sys_ui_section_33d19d0fdbf03300e10070e2399619c6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-18 11:13:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
